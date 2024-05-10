@@ -1,6 +1,4 @@
 ## Hey, Dionísio here 
-
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Favatar-the-legend-of-aang--220465344250439987%2F&psig=AOvVaw2qFqHIgEknNJ-6rBIDNim5&ust=1715434254780000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCpxNyYg4YDFQAAAAAdAAAAABAm">
 <a href="#DionisioMC-title">
   <img src="https://github-readme-stats.vercel.app/api?username=DionisioMC&show_icons=true" alt="DionisioMC" align="right" />
 </a>
