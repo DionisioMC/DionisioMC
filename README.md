@@ -1,9 +1,12 @@
 ## Hey, Dionísio here 
+
+I'm a fullStack developer from Portugal who works with Java and Javascript but indends on learning Python in the near future and when i'm not coding you can find me being a huge nerd playing Video games, reading but also baking.
+
 <a href="#DionisioMC-title">
   <img src="https://github-readme-stats.vercel.app/api?username=DionisioMC&show_icons=true" alt="DionisioMC" align="right" />
 </a>
 
-- I’m currently working on a Quiz App and a CLI command
+- I’m currently working on a Quiz Api and App and a CLI command
 - I’m currently learning Spring Boot, PostgreSQL and Node.js
 - Tools i code with:
   <img alt="Javascript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square">
