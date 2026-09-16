@@ -2,6 +2,10 @@
 
 I'm a 42 Porto from Portugal with previous work experience with Typescript and React Native.
 
+<a href="#DionisioMC-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=DionisioMC&show_icons=true" alt="DionisioMC" align="right" />
+</a>
+
 - Tools i code with:
   <img alt="Javascript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=black">
